@@ -1,1 +1,1 @@
-# Fallout4-SimpleCleanPrevis
+Precombine/Previs patched versions of the Simple and Clean Fallout 4 mod.
