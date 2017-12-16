@@ -19,6 +19,7 @@ DLCCoast (15, 22) to (15, 21)
 (17, 20) and (16, 20)
 
 Perf blocks for initial performance hotfix:
+[-1, 0, -3, 2]
 [-1, -1, -1, -1]
 [0, -1, 0, -3]
 [0, -1, 0, -2]
