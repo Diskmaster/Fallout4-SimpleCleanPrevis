@@ -1,3 +1,0 @@
-1: Rebuild visiblity, Generate Precombined
-2: Clean Precombined
-3: Rebuild Precombined Visibility
